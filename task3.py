@@ -134,7 +134,7 @@ even_add(number)
 
 def name():
     for i in range(1,36):
-        print(i,"Sumit")
+        print(i,"Malleshwari")
 name()
 
 
