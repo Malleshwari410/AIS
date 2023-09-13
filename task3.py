@@ -92,6 +92,7 @@ print(s.variance(a))
 def cube(num):
     result=num*3
     return result
+print(3)    
 
 ******************************************************************************** 
 
